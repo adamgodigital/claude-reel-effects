@@ -11,14 +11,14 @@ Made by **Adam Digital** ([@adam.godigital](https://instagram.com/adam.godigital
 Open the Terminal app (or the terminal inside Claude Code) and paste:
 
 ```bash
-git clone https://github.com/adamgodigital/adamdigital-video-effects ~/.claude/skills/effects
+git clone https://github.com/adamgodigital/claude-reel-effects ~/.claude/skills/effects
 ```
 
 On Windows (PowerShell), use `$HOME\.claude\skills\effects` instead of `~/.claude/skills/effects`.
 
 Then restart Claude Code. That's it.
 
-> Not sure how? Open Claude Code and paste: **"Install the skill from github.com/adamgodigital/adamdigital-video-effects into ~/.claude/skills/effects"**. Claude will do it for you.
+> Not sure how? Open Claude Code and paste: **"Install the skill from github.com/adamgodigital/claude-reel-effects into ~/.claude/skills/effects"**. Claude will do it for you.
 
 > Already have another effects pack in that folder? Delete that folder first, so `/effects` runs this one.
 
